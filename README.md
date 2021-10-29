@@ -1,6 +1,6 @@
 ### Hi there 👋
-
-Hi
+<img align="center" src="https://www.pinterest.com/pin/593208582175120425/">
+My name is
 <!--
 **Chicky0/Chicky0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
