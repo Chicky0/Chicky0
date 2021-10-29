@@ -4,7 +4,8 @@ My name is Nippit Chotigo, I am a 3rd year IT#25 student at King Mongkut's Unive
 <b>Contact me on Email</b> 📧 : nippit.c@mail.kmutt.ac.th <br>
 
 ## 🖱️ Skill Coding
-
+### Front-End <br>
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=f95335) ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=f95335) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=f95335) ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=f95335)
 <!--
 **Chicky0/Chicky0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
