@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="center" src="https://www.pinterest.com/pin/593208582175120425/">
+<img align="center" src="https://i.pinimg.com/originals/dc/c0/ca/dcc0ca0da6439af8c3054bcb04cfd027.jpg">
 My name is
 <!--
 **Chicky0/Chicky0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
