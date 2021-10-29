@@ -1,7 +1,9 @@
 ### Hi there 👋
 <img align="center" src="https://i.pinimg.com/originals/dc/c0/ca/dcc0ca0da6439af8c3054bcb04cfd027.jpg">
 My name is Nippit Chotigo, I am a 3rd year IT#25 student at King Mongkut's University of Technology Thonburi. <br>
-**Contact me on Email** : nippit.c@mail.kmutt.ac.th <br>
+<b>Contact me on Email</b> 📧 : nippit.c@mail.kmutt.ac.th <br>
+
+## 🖱️ Skill Coding
 
 <!--
 **Chicky0/Chicky0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
